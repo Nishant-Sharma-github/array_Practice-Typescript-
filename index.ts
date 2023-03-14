@@ -11,7 +11,7 @@ var mainObj = {
     { n1: 'ISRO', a1: 35, r1: 'Scientist' },
     { n2: 'NDHY', a2: 28, r2: 'Teacher' },
     { n3: 'MABT', a3: 49, r3: 'Manager' },
-    { n4: 'NICS', a4: 37, r4: 'Leaders' },
+    { n4: 'NICS', a4: 37, r4: 'Leader' },
     { n5: 'LOPE', a5: 72, r5: 'Boss' },
   ],
 };
